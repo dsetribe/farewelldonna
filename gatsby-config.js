@@ -18,7 +18,7 @@ try {
 }
 
 module.exports = {
-  pathPrefix: '/gatsby-contentful-starter',
+  pathPrefix: '/farewelldonna',
   plugins: [
     'gatsby-transformer-remark',
     'gatsby-plugin-react-helmet',
