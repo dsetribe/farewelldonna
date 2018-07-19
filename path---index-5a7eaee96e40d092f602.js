@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{322:function(e,n){e.exports={data:{allContentfulPerson:{edges:[{node:{name:"FAREWELL DONNA!!!",shortBio:{shortBio:"All the best in your next journey!"},title:" ",image:{file:{url:"//images.ctfassets.net/fsngsqgjhyre/1f0EHyXC74GOK228IgMe6o/da8a4e7e10eefb63b3eb1e97fe889d8d/2016-06jun-ica-ugo-rondinone-sculptures-5.jpg",fileName:"2016-06jun-ica-ugo-rondinone-sculptures-5.jpg",contentType:"image/jpeg"}}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-5a7eaee96e40d092f602.js.map
